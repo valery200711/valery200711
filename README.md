@@ -15,7 +15,7 @@ I'm a Software Analysis and Development Technology student. I enjoy constantly l
   - 📫 Reach out to me at: **valery.ra078**
  
 <h3 align="left">⚡Connect with me:</h3>	
-<a target="_blank" href="https:www.//linkedin.com/in/valery-alvarez-97202a367/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https:www.//linkedin.com/in/valery-alvarez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 <h3 align="left">🛠️Languages, and other Tools</h3>
 <span>
